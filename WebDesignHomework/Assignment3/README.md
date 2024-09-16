@@ -31,9 +31,5 @@ height="30"
 9.  linked the image into the markdown as well
 10.  Uploaded the Assignment-03 file to GitHub
 
-__Noting anything in particular you learned that you would like to discuss further?__
-
--
-
-**What problems did you have? How did you solve them?**
-
+[YouTube](https://www.youtube.com/)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
