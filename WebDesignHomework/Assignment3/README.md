@@ -32,4 +32,4 @@ height="30"
 10.  Uploaded the Assignment-03 file to GitHub
 
 [YouTube](https://www.youtube.com/)
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
