@@ -1,6 +1,8 @@
 Explain how web browsers function. How do web browsers really work behind the scenes?
 
-Web browsers function in allowing a user to access the internet from a device. The web browser then translates web languages including HTML, CSS, and JavaScript to display to the user, including how to render the layout of text, graphics, etc.
+Web browsers function in allowing a user to access the internet from a device. 
+
+The web browser then translates web languages including HTML, CSS, and JavaScript to display to the user, including how to render the layout of text, graphics, etc.
 
 What is the DOM (Document Object Model), and how does it power your web pages? 
 HTML, XML, XHTML—what sets them apart?
