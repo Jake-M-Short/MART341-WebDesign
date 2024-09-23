@@ -22,5 +22,17 @@ while XHTML does both but at the cost of being more time consuming.
 
 
 What are the four essential elements every HTML page needs?
+
+The Four Elements are:
+
+1. <!Doctype>
+
+2. <root>
+
+3. <head>
+
+4. <body>
+
 What’s the purpose of the index.html page, and where should it be placed?
+
 Review: What are the top naming practices for clean and organized code?
