@@ -25,13 +25,13 @@ What are the four essential elements every HTML page needs?
 
 The Four Elements are:
 
-1. <!Doctype>
+1. <!Doctype
 
-2. <root>
+2. <root
 
-3. <head>
+3. <head
 
-4. <body>
+4. <body
 
 What’s the purpose of the index.html page, and where should it be placed?
 
