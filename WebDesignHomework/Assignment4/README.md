@@ -35,4 +35,11 @@ The Four Elements are:
 
 What’s the purpose of the index.html page, and where should it be placed?
 
+The purpose of the index.html is to be the homepage os a site. 
+The index.html should be placed at the top of the folder directory being the master file.
+
 Review: What are the top naming practices for clean and organized code?
+
+One way to create good naming practices for clean and organized code is with creating child directories for longer URLs. 
+We can use multiple index.html files and place them into different child directories for calling certain pages.
+For example if we had an about page, we can create a subdirectory /about and call this directory, where the index.html will be called automatically.
