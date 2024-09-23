@@ -48,6 +48,5 @@ One way to create good naming practices for clean and organized code is with cre
 We can use multiple index.html files and place them into different child directories for calling certain pages.
 For example if we had an about page, we can create a subdirectory /about and call this directory, where the index.html will be called automatically.
 
-Here is my live url:
-
-Example of HTML is text editor:
+Here is my live url for assignment 4:
+https://jake-m-short.github.io/MART341-WebDesign/WebDesignHomework/Assignment4/
