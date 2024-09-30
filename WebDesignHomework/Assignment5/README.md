@@ -2,7 +2,7 @@ Visual Studio Code (or Atom) is the tool we use to **CREATE** and edit our code 
 
 README.md is a markdown file that uses markdown language to describe the  **CONTENTS** of a repository.
 
-HTML files are used to create webpages for the web, with the main homepage file always named **INDEX.html**.
+HTML files are used to create webpages for the web, with the main homepage file always named **index.html**.
 
 GitHub Desktop helps us organize files on our computers and **PUSH** them to GitHub.com.
 
