@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="device-width", initial-scale="1.0">
+    <title>Perfect Coffee</title>
+</head>
+
+    <style>
+        nav {
+            float: left;
+            padding: 10px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: white;
+            font-size: larger;
+        }
+
+        body {
+            background-color: #621b0d ;
+        }
+
+        .video-background {
+            width: 100%;
+            height: 800px;
+            margin: auto;
+            overflow: hidden;
+        }
+
+        .video-background video {
+            width: 100%;
+            width: 100%;
+            object-fit: cover;
+        }
+
+        h1, p {
+            text-align: center;
+            color: white;
+        }
+        
+        .tips-section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 10px;
+        }
+
+        .tip-box {
+            background-color: #f4e4c1; /* Light color */
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .tip-box img {
+            width: 400px;
+            height: 600px;
+            margin: 10px auto;
+            display: block;
+        }
+
+        .tip-box p {
+            margin: 10px 0;
+            color: black;
+            font-size: 16px;
+        }
+
+        .tip-box input[type="checkbox"] {
+            margin-top: 10px;
+        }
+
+    </style>
+<body>
+
+    <header>
+
+        <nav>
+            <b><a href="index.html">Home |</a></b>
+            <b><a href="pourover.html">Pour Over Coffee |</a></b>
+            <b><a href="dripcoffee.html">Drip Coffee</a></b>
+        </nav>
+
+    </header>
+
+    <main>
+
+        <div class="video-background">
+            <video src="videos/frenchpress.mp4" autoplay muted loop></video>
+        </div>
+    
+        <h1>How To Make The Perfect Cup Of Coffee Using A French Press</h1>
+        <p>In order to make this coffee, you will need a french press machine.</p>
+    
+        <div class="tips-section">
+    
+            <div class="tip-box">
+                <img src="images/coffeekettle.jpg" alt="Coffee Beans">
+                <p><strong>Step 1:</strong> Bring water to a boil using a kettle.</p>
+                <input type="checkbox" id="step1">
+            </div>
+    
+            <br/>
+    
+            <div class="tip-box">
+                <img src="images/coffegrinded.jpg" alt="Premium Coffee Beans Bag">
+                <p><strong>Step 2:</strong> Grind the coffee beans into a consistency such as breadcrumbs. Adding it into the french press.</p>
+                <input type="checkbox" id="step2">
+            </div>
+    
+            <br/>
+    
+            <div class="tip-box">
+                <img src="images/coffeestir.jpg" alt="Coffee Beans">
+                <p><strong>Step 3:</strong> When water reaches 200°F, add to the french press, stirring it vigorously for around 4 minutes. After slowly plunge the press to seperate the coffee from the coffee grounds.</p>
+                <input type="checkbox" id="step3">
+            </div>
+    
+            <br/>
+    
+            <div class="tip-box">
+                <img src="images/coffeeserve.jpg" alt="Coffee Beans">
+                <p><strong>Step 4:</strong> You can now serve the coffee, but if you have made extra or do not plan on drinking all of it, removing it from the press will stop the coffee from becoming bitter.</p>
+                <input type="checkbox" id="step4">
+            </div>
+    
+    
+        </div>
+
+    </main>
+
+    <footer>
+
+        <b><p style="font-size: large;">&copy; 2024 Perfect Coffee</p></b>
+
+    </footer>
+
+
+
+
+
+</body>
+
+
+
+
+</html>
