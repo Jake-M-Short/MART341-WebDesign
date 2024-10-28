@@ -1,5 +1,16 @@
 # How To Make The Perfect Coffee (Homepage)
 
+## Materials Needed
+
+1. Coffee Beans
+2. Water (Filtered or Spring)
+3. Grinder
+4. French Press, Drip Coffee Maker, or Pour Over Brewer
+5. Measuring Spoon
+6. Heating Device (Kettle)
+
+---
+
 ## Tips for Brewing Perfect Coffee
 
 - **Tip 1:** Use fresh coffee beans. This includes using coffee beans right after they have been roasted. Waiting longer than a day will result in the beans being less optimal.

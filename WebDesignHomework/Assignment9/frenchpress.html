@@ -24,7 +24,7 @@
 
         .video-background {
             width: 100%;
-            height: 800px;
+            height: 600px;
             margin: auto;
             overflow: hidden;
         }
@@ -47,9 +47,9 @@
         }
 
         .tip-box {
-            background-color: #f4e4c1; /* Light color */
+            background-color: #f4e4c1; 
             padding: 20px;
-            margin: 15px 0;
+            margin: 15px auto;
             border-radius: 10px;
             text-align: center;
         }
@@ -62,13 +62,44 @@
         }
 
         .tip-box p {
-            margin: 10px 0;
+            margin: 10px;
             color: black;
-            font-size: 16px;
+            font-size: large;
         }
 
         .tip-box input[type="checkbox"] {
-            margin-top: 10px;
+            margin: 10px;
+        }
+
+        .materials-section {
+            text-align: center;
+            display: flex;
+        }
+
+        .left-materials {
+            text-align: center;
+            float: left;
+            flex: 1;
+            font-size: large;
+        }
+
+        .right-materials {
+            text-align: center;
+            float: right;
+            flex: 1;
+            font-size: large;
+        }
+
+        li {
+            margin: 10px;
+        }
+
+        ul {
+            list-style-type: none;
+        }
+
+        p {
+            font-size: large;
         }
 
     </style>
@@ -92,6 +123,34 @@
     
         <h1>How To Make The Perfect Cup Of Coffee Using A French Press</h1>
         <p>In order to make this coffee, you will need a french press machine.</p>
+
+        <div class="tip-box">
+            <h2 style="text-align: center;">Materials Needed</h2>
+            <div class="materials-section">
+                <div class="left-materials">
+
+                    <ul>
+                        <li>Coffee Beans</li>
+                        <li>Water (Filtered or Spring)</li>
+                        <li>Grinder</li>
+                    </ul>
+
+                </div>
+
+                <div class="right-materials">
+
+                    <ul>
+                        <li>French Press, Drip Coffee Maker, or Pour Over Brewer</li>
+                        <li>Measuring Spoon</li>
+                        <li>Heating Device (Kettle)</li>
+                    </ul>
+
+                </div>
+
+            </div>
+        </div>
+
+        <h1>Here is how to make a great cup of coffee using a french press:</h1>
     
         <div class="tips-section">
     
