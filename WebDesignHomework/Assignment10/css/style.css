@@ -1,0 +1,61 @@
+nav {
+    background-color: pink;
+    height: 80px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+nav ul {
+    list-style-type: none;
+}
+nav li {
+    display: inline;
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+    font-weight: bold;
+}
+.banner {
+    background-color: pink;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    padding: 10px;
+}
+.character-profile {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border: 1px solid pink;
+    padding: 5px;
+}
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 75%;
+    padding: 10px;
+}
+.character-info {
+    color: #333;
+}
+.character-info h2 {
+    color: pink;
+    text-align: left;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: pink;
+    color: white;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+
