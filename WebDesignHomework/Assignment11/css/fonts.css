@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Cocogoose';
+    src: url('fonts/Cocogoose-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cocogoose';
+    src: url('fonts/Cocogoose-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}

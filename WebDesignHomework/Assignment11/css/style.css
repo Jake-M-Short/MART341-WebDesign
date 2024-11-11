@@ -1,0 +1,73 @@
+body {
+    font-family: 'Rubik', sans-serif; 
+    font-size: 16px;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+.character-info h2 {
+    font-family: 'CustomFont', sans-serif; 
+}
+.character-info h2 a {
+    color: pink;
+    text-decoration: none;
+    font-weight: bold;
+}
+.character-info h2 a:hover {
+    color: darkorchid;
+}
+nav {
+    background-color: pink;
+    height: 80px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+nav ul {
+    list-style-type: none;
+}
+nav li {
+    display: inline;
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+    font-weight: bold;
+}
+.banner {
+    background-color: pink;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    padding: 10px;
+}
+.character-profile {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border: 1px solid pink;
+    padding: 5px;
+}
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 75%;
+    padding: 10px;
+}
+.character-info {
+    color: #333;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: pink;
+    color: white;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
