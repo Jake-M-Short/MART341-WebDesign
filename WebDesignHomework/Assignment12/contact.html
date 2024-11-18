@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <style>
+        body { background-color: bisque; }
+        h3 { text-align: center; font-style: italic; }
+        .title-wrap { background-color: #B6FFBB; text-align: center; padding: 10px; }
+        input, textarea {width: 100%;}
+        .submit-button {background-color: mediumspringgreen; color:black;padding: 5px; width: 10%; height: 5%;}
+    </style>
+</head>
+<body>
+    <!-- Title and header section -->
+    <div class="title-wrap">
+        <br />
+        <h1>Nature Art and Photography Library</h1>
+        <h3>Contact Page</h3>
+        <br />
+    </div>
+
+    <h2 style="text-align: center;">Submit a Question</h2>
+    <form action="mailto:jakemshort@yahoo.com?subject=Suggested%20Activity" method="post" enctype="text/plain">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name">
+        <br />
+        <label for="email">Your Email:</label>
+        <input type="email" id="email" name="email">
+        <br />
+        <label for="question">Your Question:</label>
+        <textarea id="question" name="question"></textarea>
+        <br />
+        <input type="submit" value="Submit" class="submit-button">
+    </form>
+    <br />
+    <br />
+    <div class="title-wrap">
+        <br />
+        <h2>Nature Art and Photography Details</h2>
+        <p>Any artists wanting to involve themselves within this website will need to make an account.</p>
+        <p>To be a featured artist, you must match the <b>Nature</b> theme of the website.</p>
+        <p>To return to the homepage <a href="index.html">click here</a></p>
+        <p>To learn more about visit our <a href="about.html">About Us</a> page.</p>
+        <p>To learn more about what the website offers or how it works visit the <a href="FAQ.html">FAQ</a> page.</p>
+        <p>To contact us about any suggestions or quesitons we did not answer in our FAQ visit the <a href="contact.html">Contact Us</a> page.</p>
+        <blockquote>
+            "An intellectual says a simple thing in a hard way. An artist says a hard thing in a simple way."
+            - Charles Bukowski
+        </blockquote>
+        <p>The <abbr title="Nature Art and Photography Library">NAPL</abbr> is the place to share art and photographs related to nature.</p>
+        <br />
+    </div>
+
+</body>
+</html>
