@@ -1,14 +1,14 @@
 Checklist of Requirements:
 
-[x] Dropdown menu for navigation elements
+[x] Dropdown menu for navigation elements, added these while trying to looking at the example given for the assignment. I couldnt get the navigation buttons underneath a specific tab to not show all the time.
 
-[x] At least 4 pages
+[x] At least 4 pages, theme related to the manga Berserk
 
 [x] media queries for mobile, desktop and tablet screens (had issues tho when testing on my mobile device, the title for the webpage would not shrink, but would for my desktop if I shrunk my window)
 
-[x] clear navigation menu for easy user interaction
+[x] clear navigation menu for easy user interaction (incorporated this into a banner to fit the theme as well as being able to use the red font color to match other fonts)
 
-[x] webpage also has responsive design when swithing layouts
+[x] webpage also has responsive design when swithing layouts (webpage is responsive in switching sizes, but for mobile it seemed a little difficult as my banner title would not change size even when using !important)
 
 Other:
 
