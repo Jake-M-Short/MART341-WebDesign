@@ -295,7 +295,7 @@ input[type="radio"] {
 /* Mobile Size */
 @media screen and (max-width: 400px) {
     .banner-title {
-        font-size: 40px;
+        font-size: 40px !important;
     }
 
     .menu-item a {
