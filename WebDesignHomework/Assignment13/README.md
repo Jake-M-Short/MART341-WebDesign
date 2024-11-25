@@ -4,7 +4,7 @@ Checklist of Requirements:
 
 [x] At least 4 pages
 
-[x] media queries for mobile, desktop and tablet screens
+[x] media queries for mobile, desktop and tablet screens (had issues tho when testing on my mobile device, the title for the webpage would not shrink, but would for my desktop if I shrunk my window)
 
 [x] clear navigation menu for easy user interaction
 
